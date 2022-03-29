@@ -4,7 +4,7 @@ ambiente comercial, no processo que retrata as filas de clientes e tempo de
 atendimento dos caixas. Ao pensar na aplicação real do software e escrito na
 linguagem de programação python, a equipe projeta um código utilizando do
 tempo real da biblioteca datetime.<p>
-  <p>User o promp para rodar o aquivo main.py, tecle enter quantas vezes necessario para gerar clientes dinamicamente,e difite 'ok' para finalizar</p>
+  <p>User o prompt para rodar o aquivo main.py, tecle enter quantas vezes necessario para gerar clientes dinamicamente,e digite 'ok' para finalizar</p>
 
 <h2>Documentação</h2><br>
   <i>Class <code>Atendimento</code></i> <br>
