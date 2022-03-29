@@ -1,0 +1,15 @@
+------ Histórico de Atendimento ------
+name:Cliente1, senha:1, entrouNaFila:11:1:51, saiuDaFila:23:50:54, startAtendimento:23:50:54, endAtendimento:23:50:54, tempoFila:12:49:03, tempoAtendimento:0:00:00
+------ Media de Atendimento ------
+0.0
+------ Média de Tempo na Fila ------
+49.05
+------ Clientes na Fila ------
+name:Cliente1, senha:1, entrouNaFila:11:1:51, saiuDaFila:None, startAtendimento:None, endAtendimento:None, tempoFila:None, tempoAtendimento:None
+name:Cliente1, senha:1, entrouNaFila:11:1:51, saiuDaFila:None, startAtendimento:None, endAtendimento:None, tempoFila:None, tempoAtendimento:None
+------ Tamanho da Fila ------
+2
+------ Status ------
+Não há cliente sendo atendido!
+------ Total de Atendimento ------
+1
