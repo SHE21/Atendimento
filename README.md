@@ -1,9 +1,9 @@
 # Atendimento
-Programa de gerenciamneto de atendimento presencial
-
-Sistema de gerenciamento de Atendimento
-
-Cada Atendimento tem uma Fila
+O software foi criado para a geração de relatórios diários dentro do
+ambiente comercial, no processo que retrata as filas de clientes e tempo de
+atendimento dos caixas. Ao pensar na aplicação real do software e escrito na
+linguagem de programação python, a equipe projeta um código utilizando do
+tempo real da biblioteca datetime.
 
 <h2>Documentação</h2><br>
   <i>Class <code>Atendimento</code></i> <br>
